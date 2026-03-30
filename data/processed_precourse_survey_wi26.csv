@@ -1,0 +1,711 @@
+,languages,statistics_level,programming_level,major,class_level,gender,Hispanic,race,LGBTQIA,international_student,transfer_student,first_generation_student
+0,"Python, Java, R",5,8,Cognitive Science,Junior,Female,No,Asian,No,Yes,No,No
+1,"Java, None of these (I'm not comfortable programming)",3,4,,,,,,,,,
+2,None of these (I'm comfortable in another language),5,5,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,Yes,No
+3,"Python, Java, MATLAB",7,8,Mathematics,Junior,Male,No,White,No,No,No,No
+4,"Python, MATLAB",5,10,Physics,Senior,Male,Yes,White,No,No,No,Yes
+5,None of these (I'm comfortable in another language),7,8,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+6,"Python, Java, MATLAB",8,10,I'm not an undergraduate,Postgraduate,Male,No,Asian,No,Yes,No,No
+7,"Python, MATLAB",10,8,Economics,Sophomore,Female,No,Asian,,No,No,Yes
+8,"Java, MATLAB",8,8,Computer Science and Engineering,Sophomore,Female,No,Asian,No,No,No,Yes
+9,"Python, None of these (I'm not comfortable programming)",2,2,Cognitive Science,Senior,Female,No,White,No,No,Yes,No
+10,"Python, Java",3,5,Cognitive Science,Sophomore,Male,No,Asian,No,Yes,No,Yes
+11,Python,7,5,Cognitive Science,Freshman,Female,No,Asian,No,Yes,No,No
+12,"Python, Java, MATLAB",6,9,Computer Science and Engineering,Senior,Female,Yes,Decline to answer,No,No,No,Yes
+13,"Python, Java, MATLAB",7,7,Data Science,Sophomore,Female,No,Asian,No,No,No,No
+14,"Python, Java",5,5,Mathematics,Sophomore,Female,No,Asian,No,No,No,No
+15,Python,6,5,Cognitive Science,Freshman,Female,No,Asian,,Yes,No,No
+16,Python,4,4,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,Yes
+17,Python,8,8,Electrical and Computer Engineering,Junior,Male,No,Asian,No,No,Yes,Yes
+18,"Python, Java",6,8,Mathematics,Sophomore,Female,Yes,White,No,No,No,No
+19,"Python, Java",7,10,Computer Science and Engineering,Senior,Male,Yes,White,No,Yes,No,No
+20,"Python, Java",6,9,Computer Science and Engineering,Senior,Male,No,"Asian, White",No,No,No,No
+21,Python,5,5,Cognitive Science,Senior,Female,No,Asian,No,No,Yes,No
+22,"Python, MATLAB",5,4,Cognitive Science,Sophomore,Female,No,White,Decline to answer,No,No,Yes
+23,None of these (I'm not comfortable programming),6,4,Cognitive Science,Junior,Male,Yes,White,No,No,Yes,Yes
+24,"Python, Java",3,8,Data Science,Sophomore,Female,No,White,Yes,No,No,No
+25,"Java, R",7,8,Computer Science and Engineering,Junior,Male,Yes,American Indian or Alaska Native,No,No,No,No
+26,None of these (I'm not comfortable programming),5,5,,,,,,,,,
+27,"Python, MATLAB",6,6,Mathematics,Junior,Female,No,White,No,No,No,No
+28,Python,7,7,Data Science,Senior,Male,No,Asian,No,Yes,No,No
+29,"Python, R",10,10,,,,,,,,,
+30,"Python, MATLAB",7,9,Electrical and Computer Engineering,Senior,Male,Yes,White,No,No,Yes,Yes
+31,Python,6,5,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,Asian,No,No,No,Yes
+32,None of these (I'm not comfortable programming),3,5,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,Decline to answer
+33,Python,8,4,Psychology,Junior,Female,Yes,White,No,No,Yes,Yes
+34,"Python, Java, R",8,9,Data Science,Senior,Male,Yes,White,No,No,Yes,Yes
+35,"Python, None of these (I'm comfortable in another language)",7,8,Data Science,Sophomore,Male,No,Asian,No,No,Yes,No
+36,"Python, Java",2,8,Mathematics,Junior,Male,No,"American Indian or Alaska Native, White",No,No,No,No
+37,"Python, Java",8,10,Data Science,Junior,Male,No,"Asian, White",No,No,Yes,No
+38,"Python, MATLAB",5,5,Cognitive Science,Junior,Nonbinary,No,Asian,Yes,No,No,No
+39,Python,6,4,Psychology,Junior,Female,Yes,,No,No,No,Yes
+40,"Python, Java, MATLAB",5,10,Computer Science and Engineering,Junior,Male,No,"Black or African American, White",No,No,No,No
+41,Python,8,8,Data Science,Junior,Female,No,Asian,No,No,No,Yes
+42,"Python, Java, MATLAB",6,8,,,,,,,,,
+43,"Python, MATLAB",5,3,,,,,,,,,
+44,Python,7,8,Data Science,Freshman,Male,No,Asian,No,No,No,No
+45,Java,7,7,Mathematics,Junior,Female,No,Asian,No,No,Yes,No
+46,"Python, Java, R",10,10,Data Science,Senior,Male,No,Asian,,No,No,Yes
+47,"Python, Java",6,6,Computer Science and Engineering,Junior,Female,No,Asian,No,Yes,Yes,Yes
+48,"Python, Java, MATLAB",7,8,Mathematics,Senior,Male,No,White,No,No,No,
+49,"R, None of these (I'm not comfortable programming)",5,3,Mathematics,Junior,Male,No,White,No,No,Yes,Yes
+50,"Python, R",7,6,Data Science,Junior,Male,No,Asian,No,No,Yes,Yes
+51,Python,7,7,Computer Science and Engineering,Senior,Male,Yes,Asian,No,No,Yes,Yes
+52,Python,5,5,Psychology,Senior,Female,No,Asian,No,,Yes,No
+53,Java,5,6,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Female,Yes,White,Yes,No,No,Yes
+54,"Python, R",2,3,Cognitive Science,Junior,Female,No,Asian,,,,Yes
+55,Python,6,7,Data Science,Junior,Female,No,Asian,No,Yes,Yes,No
+56,Python,8,10,Computer Science and Engineering,Junior,Male,No,Asian,No,Yes,Yes,No
+57,Python,6,7,Data Science,Junior,Male,No,Asian,No,Yes,Yes,Yes
+58,Python,9,5,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Female,Yes,,Decline to answer,No,No,Yes
+59,"Python, None of these (I'm not comfortable programming)",3,4,Cognitive Science,Sophomore,Female,No,Asian,Yes,No,No,Yes
+60,"Python, Java",5,8,Computer Science and Engineering,Junior,Male,No,White,No,No,No,No
+61,MATLAB,3,5,Cognitive Science,Junior,Female,Yes,"Asian, White",Decline to answer,No,Yes,No
+62,"Python, MATLAB",5,5,,,,,,,,,
+63,"Python, Java",8,10,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,No,Yes
+64,Java,5,8,Computer Science and Engineering,Sophomore,Male,Yes,Decline to answer,No,No,No,Yes
+65,Python,5,5,Cognitive Science,Sophomore,Male,No,Asian,No,Yes,No,No
+66,"Python, MATLAB",6,7,Data Science,Sophomore,Male,No,Asian,No,No,No,Yes
+67,"Java, MATLAB",6,8,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,No,Decline to answer
+68,Python,5,6,Computer Science and Engineering,Senior,Female,No,"Asian, White",Yes,No,No,Yes
+69,"Python, MATLAB",7,7,Data Science,Junior,Male,No,"Asian, White",Decline to answer,Decline to answer,Decline to answer,Decline to answer
+70,"Python, Java",5,9,Computer Science and Engineering,Senior,Male,No,"Asian, White",No,No,Yes,Yes
+71,"Python, R",5,5,Economics,Senior,Female,No,Asian,No,Yes,Yes,No
+72,"Python, Java, MATLAB, R",9,10,Data Science,Senior,Male,No,Asian,Decline to answer,No,No,Yes
+73,"Python, MATLAB",4,9,Electrical and Computer Engineering,Senior,Male,No,"American Indian or Alaska Native, White",No,No,Yes,No
+74,"Python, MATLAB",5,3,Cognitive Science,Junior,Female,Yes,White,No,No,No,Yes
+75,"Python, Java, MATLAB",8,9,Computer Science and Engineering,Junior,Female,No,Asian,No,Yes,No,No
+76,"Python, Java, MATLAB",5,10,Computer Science and Engineering,Senior,Nonbinary,Yes,White,Yes,No,No,No
+77,"Python, Java, MATLAB",3,10,Data Science,Sophomore,Female,No,White,,,No,No
+78,None of these (I'm comfortable in another language),8,5,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,No
+79,"Python, Java",5,8,,,,,,,,,
+80,Python,6,6,Psychology,Senior,Male,No,Asian,No,No,No,No
+81,Python,7,6,Data Science,Senior,Male,No,Asian,No,Yes,,Yes
+82,"Python, Java, MATLAB",5,8,,,,,,,,,
+83,"Python, Java",6,8,Data Science,Junior,Male,No,Asian,No,Yes,No,No
+84,"Python, Java",6,10,Data Science,Junior,Male,No,Asian,No,No,No,No
+85,Java,5,3,Psychology,Senior,Female,No,White,No,No,Yes,No
+86,"Python, Java, MATLAB, R",6,8,Data Science,Junior,Female,No,Black or African American,No,No,No,No
+87,"Python, Java",8,8,Data Science,Junior,Female,No,Asian,No,No,No,No
+88,None of these (I'm not comfortable programming),4,5,,,,,,,,,
+89,None of these (I'm not comfortable programming),5,4,Electrical and Computer Engineering,Senior,Male,No,,,,,
+90,Python,3,4,Cognitive Science,Junior,,No,Asian,Yes,No,No,No
+91,None of these (I'm comfortable in another language),8,6,,,,,,,,,
+92,"Python, Java",7,8,"Other STEM (sorry, until now not many of our students have come from your degree!)",Sophomore,Male,No,Decline to answer,No,No,No,Yes
+93,None of these (I'm not comfortable programming),4,2,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,White,No,No,Yes,No
+94,"Python, Java",6,8,Computer Science and Engineering,Junior,Female,No,Asian,No,No,Yes,No
+95,"Python, Java",5,6,Sociology,Senior,Male,No,Asian,No,No,Yes,No
+96,Python,7,7,Data Science,Junior,Female,No,Asian,Yes,No,Yes,No
+97,"Java, MATLAB",5,7,Mathematics,Senior,Male,No,"Asian, White",No,No,No,No
+98,Java,1,5,Computer Science and Engineering,Junior,Male,No,Black or African American,No,No,Yes,No
+99,"Python, Java",7,9,Mathematics,Junior,Female,No,Asian,No,No,No,No
+100,"Python, Java",3,7,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+101,None of these (I'm not comfortable programming),7,3,Cognitive Science,Senior,Female,No,Black or African American,No,No,Yes,Yes
+102,None of these (I'm not comfortable programming),4,3,Cognitive Science,Junior,Female,No,,,No,No,No
+103,"Python, Java",7,9,Data Science,Sophomore,Female,No,Asian,No,No,No,Yes
+104,None of these (I'm not comfortable programming),5,5,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,Yes
+105,"Python, Java",2,8,Computer Science and Engineering,Senior,Female,No,Asian,No,No,No,Yes
+106,Python,4,8,Electrical and Computer Engineering,Senior,Female,No,Black or African American,No,No,Yes,No
+107,Python,8,8,Data Science,Senior,Female,No,Asian,No,No,Yes,No
+108,Python,5,6,Data Science,Freshman,Male,No,Asian,No,No,No,No
+109,Python,3,5,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+110,"Python, Java, R",5,4,,,,,,,,,
+111,Python,7,7,Data Science,Junior,Female,No,Asian,No,Yes,No,No
+112,Python,5,7,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,Yes
+113,"Python, Java, MATLAB",3,7,Mathematics,Sophomore,Male,No,Asian,No,Yes,No,Yes
+114,"Python, Java",5,9,"Other STEM (sorry, until now not many of our students have come from your degree!)",Junior,Female,No,Asian,No,No,Yes,Yes
+115,"Python, MATLAB, R",7,5,Psychology,Senior,Female,No,"Asian, White",No,No,No,No
+116,"Python, Java",4,10,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,Yes
+117,None of these (I'm not comfortable programming),3,6,Cognitive Science,Senior,Female,No,Black or African American,Decline to answer,No,No,No
+118,Java,7,8,Cognitive Science,Junior,Female,No,Asian,Yes,Yes,No,No
+119,"Python, Java",4,7,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Freshman,Male,No,Asian,No,Yes,No,No
+120,"Python, R",6,5,Economics,Senior,Male,No,Asian,No,Yes,Yes,No
+121,"Python, Java",5,5,Mathematics,Senior,Female,No,Asian,No,No,No,Yes
+122,Python,3,5,Data Science,Sophomore,Female,No,Asian,No,No,No,Decline to answer
+123,"None of these (I'm comfortable in another language), None of these (I'm not comfortable programming)",5,4,Cognitive Science,Junior,Female,Yes,White,No,No,No,Yes
+124,"Python, Java, MATLAB",7,7,Computer Science and Engineering,Senior,Male,No,White,No,Yes,No,No
+125,"Python, Java, MATLAB",7,10,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,No,No
+126,Java,4,4,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,No
+127,"Python, Java",7,8,Data Science,Sophomore,Female,No,Asian,No,No,No,No
+128,"Python, Java",7,6,Data Science,Sophomore,Male,No,Asian,No,No,No,Yes
+129,"Python, Java, MATLAB",7,8,Computer Science and Engineering,Junior,Male,No,Asian,No,No,No,Yes
+130,Python,8,7,Cognitive Science,Sophomore,Male,No,Asian,No,Yes,No,No
+131,"Python, Java",6,9,,,,,,,,,
+132,"Python, Java, MATLAB",6,10,Computer Science and Engineering,Senior,Male,No,Asian,No,No,No,No
+133,None of these (I'm not comfortable programming),8,3,Data Science,Junior,Female,No,Asian,No,No,Yes,No
+134,Python,4,4,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,Yes
+135,None of these (I'm not comfortable programming),9,3,Mathematics,Senior,Female,No,White,No,No,Yes,No
+136,Python,4,6,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,Yes
+137,Python,6,6,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,Yes
+138,None of these (I'm comfortable in another language),3,4,Cognitive Science,Junior,Female,No,Asian,Yes,No,Yes,Yes
+139,None of these (I'm not comfortable programming),5,3,Cognitive Science,Junior,Female,No,"Asian, White",Yes,No,Yes,No
+140,Python,5,5,Cognitive Science,Sophomore,Male,No,Asian,No,Yes,No,No
+141,None of these (I'm not comfortable programming),7,4,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,No
+142,Java,7,8,Cognitive Science,Junior,Female,No,American Indian or Alaska Native,No,No,No,No
+143,"Python, MATLAB, R",10,8,Data Science,Junior,Female,No,Asian,No,No,Yes,No
+144,"MATLAB, None of these (I'm comfortable in another language)",4,6,Electrical and Computer Engineering,Junior,Male,No,Asian,No,No,No,No
+145,None of these (I'm not comfortable programming),5,4,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Female,No,White,Yes,No,Yes,No
+146,None of these (I'm not comfortable programming),6,4,Psychology,Sophomore,Female,No,Asian,No,No,No,No
+147,"Python, Java",8,7,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Male,Yes,Decline to answer,No,No,No,Yes
+148,Java,4,7,Computer Science and Engineering,Senior,Male,No,Decline to answer,No,No,Yes,No
+149,Python,6,4,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+150,"Python, Java, MATLAB",3,8,,,,,,,,,
+151,"Python, Java",6,9,,,,,,,,,
+152,"Python, Java",2,3,Cognitive Science,Junior,Female,No,Asian,No,Yes,No,No
+153,Python,8,7,Data Science,Junior,Female,No,Asian,No,No,Yes,No
+154,Python,6,8,Data Science,Sophomore,Male,No,"Asian, White",No,No,No,No
+155,"Java, R",8,10,Computer Science and Engineering,Senior,Female,No,Asian,,No,Yes,Yes
+156,Python,7,3,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+157,Python,5,4,Psychology,Junior,Female,No,White,Yes,No,No,No
+158,Python,5,6,Cognitive Science,Junior,Female,Yes,White,Decline to answer,No,No,Yes
+159,"Python, Java",7,4,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,Yes
+160,"Python, Java, MATLAB",5,10,Computer Science and Engineering,Senior,Male,No,Asian,No,No,No,No
+161,Python,7,8,Data Science,Sophomore,Male,No,"Asian, White",No,No,No,No
+162,Python,8,6,Cognitive Science,Sophomore,Female,Yes,Decline to answer,Yes,No,No,Yes
+163,Java,7,6,"Other STEM (sorry, until now not many of our students have come from your degree!)",Junior,Male,No,Asian,No,Yes,No,No
+164,Python,4,6,Biology,Junior,Female,No,Asian,Yes,No,No,Yes
+165,"Python, Java, MATLAB",9,7,,,,,,,,,
+166,Python,8,8,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,Yes,No
+167,None of these (I'm comfortable in another language),3,4,Computer Science and Engineering,Junior,Male,No,White,No,No,Yes,Yes
+168,"Python, Java",8,8,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,Yes
+169,Python,6,3,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Female,No,Asian,Yes,No,No,No
+170,Java,4,7,Computer Science and Engineering,Junior,Female,No,White,No,No,Yes,Yes
+171,Python,6,6,Data Science,Junior,Male,Yes,American Indian or Alaska Native,No,No,Yes,No
+172,Python,5,5,,,,,,,,,
+173,R,7,3,Political Science,Senior,Male,No,Asian,Yes,No,No,No
+174,Python,5,3,Cognitive Science,Senior,Male,No,Asian,Yes,No,No,No
+175,Python,4,3,Cognitive Science,Senior,Male,No,White,No,No,No,No
+176,"Python, Java, MATLAB",7,10,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,Yes,No
+177,"Python, Java, R",7,10,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+178,Java,8,6,Mathematics,Junior,Male,No,Asian,No,No,No,Yes
+179,Python,3,5,Cognitive Science,Sophomore,Female,No,Asian,,No,No,Yes
+180,None of these (I'm not comfortable programming),6,5,Cognitive Science,Junior,Female,No,Asian,Yes,No,Yes,No
+181,"Python, Java",7,10,Mathematics,Freshman,Male,Decline to answer,Decline to answer,No,Yes,No,No
+182,Python,2,5,Mathematics,Sophomore,Female,No,Asian,No,Yes,No,No
+183,"Python, Java",5,10,Mathematics,Junior,Male,No,White,No,No,Yes,No
+184,Python,6,5,Cognitive Science,Sophomore,Female,No,Black or African American,Yes,No,No,No
+185,Python,4,8,Data Science,Junior,Nonbinary,No,Asian,Yes,No,No,No
+186,"Python, Java, MATLAB",7,10,Computer Science and Engineering,Junior,Male,No,Asian,No,No,No,Yes
+187,"Python, Java",7,4,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,No
+188,Python,8,3,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+189,"Python, Java",6,5,Mathematics,Junior,Female,No,Asian,No,Yes,No,No
+190,"Python, Java",5,9,Mathematics,Sophomore,Male,No,Asian,No,Yes,No,No
+191,"Python, Java, MATLAB",5,5,Data Science,Freshman,Male,No,Asian,No,No,No,No
+192,"Python, Java",5,10,Mathematics,Junior,Male,No,Asian,No,Yes,No,No
+193,"Python, R",7,8,Computer Science and Engineering,Senior,Male,No,"Asian, Native Hawaiian or Other Pacific Islander",No,Yes,Yes,No
+194,"Python, Java",7,9,Computer Science and Engineering,Senior,Male,No,White,No,No,Yes,No
+195,None of these (I'm comfortable in another language),6,8,Electrical and Computer Engineering,Junior,Male,No,Asian,No,No,Yes,Yes
+196,"Python, Java",7,8,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,No
+197,"Java, None of these (I'm comfortable in another language)",2,8,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,No
+198,None of these (I'm not comfortable programming),5,3,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+199,None of these (I'm not comfortable programming),5,2,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+200,"Python, Java, MATLAB",8,8,Physics,Junior,Male,No,White,No,No,No,No
+201,Java,2,7,Electrical and Computer Engineering,Sophomore,Male,No,Black or African American,No,No,No,Yes
+202,"Python, Java",6,8,Mathematics,Senior,Female,No,Asian,No,No,No,No
+203,Python,7,4,Cognitive Science,Sophomore,Decline to answer,No,Asian,Yes,No,No,No
+204,Python,6,5,"Other STEM (sorry, until now not many of our students have come from your degree!)",Senior,Female,Yes,Decline to answer,Yes,No,No,Yes
+205,None of these (I'm not comfortable programming),6,4,Cognitive Science,Sophomore,Female,No,Asian,No,Yes,No,No
+206,None of these (I'm not comfortable programming),5,3,Chemistry,Senior,Male,No,Asian,No,No,No,Yes
+207,None of these (I'm not comfortable programming),4,4,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+208,"Python, Java, MATLAB",3,9,"Other STEM (sorry, until now not many of our students have come from your degree!)",Sophomore,Female,Yes,White,No,No,No,Yes
+209,"Python, Java",2,10,"Other STEM (sorry, until now not many of our students have come from your degree!)",Freshman,Male,No,Asian,No,No,No,Yes
+210,"Python, Java, MATLAB",6,7,Data Science,Sophomore,Female,Yes,White,No,No,No,Yes
+211,"Python, Java",3,3,Cognitive Science,Junior,Female,,Asian,Yes,No,No,No
+212,"Python, Java, MATLAB",8,10,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+213,"Python, Java",10,8,Data Science,Sophomore,Female,No,Asian,,No,No,Yes
+214,Python,3,5,Cognitive Science,Sophomore,Female,No,White,No,No,No,No
+215,"Python, Java",8,8,Computer Science and Engineering,Sophomore,Male,No,White,No,No,No,No
+216,"Python, Java, MATLAB",7,9,Mathematics,Junior,Male,No,Asian,No,No,No,Yes
+217,None of these (I'm not comfortable programming),1,1,Economics,Junior,Male,No,Asian,No,No,No,Yes
+218,"Python, MATLAB",9,8,Mathematics,Sophomore,Female,No,Asian,Yes,No,No,Yes
+219,Java,8,7,,,,,,,,,
+220,"Python, MATLAB",6,7,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,Yes
+221,"Python, Java",5,6,Electrical and Computer Engineering,Senior,Male,No,White,No,No,Yes,No
+222,"Python, None of these (I'm comfortable in another language)",6,10,Computer Science and Engineering,Junior,Male,No,Asian,Decline to answer,No,Yes,No
+223,Python,7,5,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+224,"Python, Java, MATLAB, R",5,7,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,No,Yes
+225,"Python, Java",8,7,Data Science,Junior,Female,No,Asian,No,Yes,Yes,No
+226,"Python, Java",3,6,Computer Science and Engineering,Freshman,Male,Yes,Asian,No,No,No,Decline to answer
+227,Python,7,6,Data Science,Junior,Female,No,Asian,Yes,No,Yes,Yes
+228,"Python, Java, MATLAB",10,9,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,No
+229,"Python, Java",9,9,Data Science,Senior,Male,No,Asian,No,No,No,No
+230,"Python, Java, None of these (I'm comfortable in another language)",4,10,Cognitive Science,Junior,Male,No,White,No,No,No,No
+231,"Python, Java, MATLAB",8,7,Cognitive Science,Freshman,Female,No,Asian,No,Yes,No,No
+232,Python,6,4,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+233,None of these (I'm not comfortable programming),7,3,Biology,Junior,Female,No,Asian,No,Yes,No,No
+234,"Python, Java, MATLAB",10,9,Mathematics,Sophomore,Male,No,Asian,No,Yes,No,No
+235,None of these (I'm not comfortable programming),8,3,Psychology,Senior,Female,No,Asian,Yes,No,No,No
+236,Python,7,6,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,Asian,No,No,No,Yes
+237,"Python, Java",6,8,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,Yes,No
+238,"Python, MATLAB",3,4,Physics,Junior,Female,No,Asian,Yes,No,No,Yes
+239,"Python, None of these (I'm comfortable in another language)",2,7,Electrical and Computer Engineering,Senior,Female,No,"Asian, White",Yes,No,No,No
+240,"Python, Java, MATLAB, R",8,9,Data Science,Junior,Female,No,Asian,No,No,No,No
+241,None of these (I'm not comfortable programming),3,2,,,,,,,,,
+242,"Python, Java",8,10,Computer Science and Engineering,Junior,Female,No,Asian,No,No,Yes,No
+243,"Python, Java",6,9,Computer Science and Engineering,Sophomore,Female,Yes,White,Yes,No,No,No
+244,"Python, Java",7,10,Mathematics,Junior,Male,No,Asian,No,No,No,Yes
+245,"Python, Java, MATLAB",8,10,Data Science,Sophomore,Male,No,Asian,No,Yes,No,No
+246,Python,4,4,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Freshman,Female,No,Asian,No,Yes,No,No
+247,"Python, Java",8,10,Computer Science and Engineering,Senior,Male,No,White,No,No,No,No
+248,None of these (I'm comfortable in another language),1,6,Computer Science and Engineering,Senior,Male,No,Asian,Yes,Yes,Yes,No
+249,None of these (I'm not comfortable programming),4,4,Cognitive Science,Senior,Male,No,Asian,No,No,No,No
+250,"Python, MATLAB",5,5,Cognitive Science,Junior,Female,Yes,White,No,No,No,Yes
+251,"Python, Java, MATLAB",8,10,Mathematics,Sophomore,Male,No,Asian,No,Yes,No,No
+252,Python,7,4,Psychology,Senior,Female,No,White,No,No,No,No
+253,"Python, Java",4,4,Data Science,Sophomore,Male,No,Asian,No,No,No,Yes
+254,Python,8,9,,,,,,,,,
+255,None of these (I'm not comfortable programming),4,6,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Nonbinary,Yes,American Indian or Alaska Native,Yes,No,No,Yes
+256,Java,5,8,Computer Science and Engineering,Sophomore,Male,No,"Asian, White",No,No,No,No
+257,Python,9,3,Psychology,Freshman,Female,No,Asian,Yes,No,No,No
+258,Python,7,9,Data Science,Senior,Male,No,Asian,No,No,Yes,No
+259,None of these (I'm comfortable in another language),3,3,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+260,"Python, Java",7,10,Mathematics,Junior,Male,No,Asian,No,No,No,No
+261,Python,7,4,"Other engineering (BE, MAE, SE, etc)",Sophomore,Female,No,Decline to answer,No,Yes,No,No
+262,"Python, Java, MATLAB, R",9,10,,,,,,,,,
+263,"Python, MATLAB, R",8,10,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+264,None of these (I'm not comfortable programming),7,2,,,,,,,,,
+265,"Python, Java",5,8,Mathematics,,Male,No,Asian,No,No,No,No
+266,"Python, R",5,6,Biology,Sophomore,Female,No,Asian,No,No,No,No
+267,"Python, Java",8,10,Data Science,Junior,Female,No,White,No,No,No,No
+268,"Python, Java, R",7,6,Computer Science and Engineering,Sophomore,Female,No,Asian,No,No,No,Yes
+269,"Python, None of these (I'm comfortable in another language)",5,10,Computer Science and Engineering,Junior,Female,No,White,No,No,Yes,Yes
+270,Java,4,6,Mathematics,Junior,Male,No,Asian,No,Yes,Yes,Yes
+271,Python,7,7,"Other STEM (sorry, until now not many of our students have come from your degree!)",Sophomore,Male,No,Asian,No,No,No,No
+272,Python,7,8,Data Science,Senior,Male,No,Asian,No,No,Yes,No
+273,"Python, Java",7,10,Data Science,Sophomore,Male,No,White,No,No,No,No
+274,Python,4,2,Cognitive Science,Freshman,Female,No,Asian,No,No,No,No
+275,"Python, Java",4,4,Computer Science and Engineering,Junior,Female,No,Asian,No,No,No,No
+276,Python,4,4,Cognitive Science,Sophomore,Female,,,,,,
+277,None of these (I'm not comfortable programming),8,2,Economics,Sophomore,Female,No,Asian,No,No,No,No
+278,None of these (I'm not comfortable programming),6,3,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+279,"Python, Java, None of these (I'm comfortable in another language)",1,8,Computer Science and Engineering,Junior,Male,No,Asian,No,Yes,Yes,Yes
+280,None of these (I'm not comfortable programming),10,5,"Other engineering (BE, MAE, SE, etc)",Sophomore,Female,No,Asian,Decline to answer,No,No,No
+281,"Python, None of these (I'm not comfortable programming)",4,5,Cognitive Science,Junior,Male,Yes,Decline to answer,No,No,No,Yes
+282,Python,6,7,,,,,,,No,,
+283,"Python, Java",2,5,Computer Science and Engineering,Junior,Male,Yes,White,No,No,Yes,Yes
+284,Java,8,2,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+285,"Python, Java, MATLAB",6,9,Data Science,Freshman,Male,No,Asian,No,No,No,No
+286,Python,8,10,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,Yes,No
+287,"Python, Java",2,8,Computer Science and Engineering,Senior,Female,Yes,Asian,No,No,No,Yes
+288,"Python, Java",8,7,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,Yes,Yes
+289,"Python, Java",7,8,Data Science,Junior,Male,No,Asian,No,No,No,Yes
+290,"Python, Java, None of these (I'm comfortable in another language)",5,7,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+291,None of these (I'm not comfortable programming),7,1,Cognitive Science,Junior,Female,Yes,White,No,No,No,Yes
+292,Python,3,5,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,Black or African American,No,No,Yes,Yes
+293,"Python, Java",5,7,Computer Science and Engineering,Sophomore,Female,Yes,Decline to answer,No,No,No,Yes
+294,"Python, Java, R",5,6,,,,,,,,,
+295,None of these (I'm not comfortable programming),8,3,Cognitive Science,Sophomore,Male,No,Asian,No,Yes,No,Yes
+296,"Python, Java",4,8,Computer Science and Engineering,Junior,Male,No,Black or African American,No,No,No,Yes
+297,"Python, Java, MATLAB",6,8,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,No
+298,MATLAB,4,4,"Other engineering (BE, MAE, SE, etc)",Senior,Male,Yes,"Asian, Native Hawaiian or Other Pacific Islander",No,No,No,Yes
+299,None of these (I'm not comfortable programming),8,3,Economics,Senior,Male,No,Asian,No,Yes,Yes,Yes
+300,"Python, Java, MATLAB",3,7,Electrical and Computer Engineering,Junior,Male,No,Asian,No,No,No,No
+301,"Python, R",7,7,Cognitive Science,Junior,Male,No,White,No,No,Yes,No
+302,"Python, None of these (I'm not comfortable programming)",6,3,Cognitive Science,Junior,Female,No,White,No,No,Yes,No
+303,"Python, MATLAB",8,6,Economics,Junior,Female,No,White,Yes,No,No,No
+304,"Python, R",3,3,Mathematics,Junior,Female,No,Asian,,Yes,Yes,Yes
+305,"Python, Java",4,9,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+306,"None of these (I'm comfortable in another language), None of these (I'm not comfortable programming)",3,5,Electrical and Computer Engineering,Junior,Male,No,White,No,No,Yes,No
+307,Python,3,3,Data Science,Freshman,Female,No,Asian,No,No,No,No
+308,"Python, Java, MATLAB, R",3,9,Electrical and Computer Engineering,Senior,Male,No,White,No,Yes,No,No
+309,Java,7,4,Mathematics,Junior,Female,No,White,Decline to answer,No,Yes,No
+310,None of these (I'm not comfortable programming),8,7,Cognitive Science,Junior,Male,No,"Black or African American, White",No,No,No,Yes
+311,"Python, MATLAB",4,6,Data Science,Sophomore,Female,Yes,Decline to answer,Yes,No,No,Yes
+312,"Python, None of these (I'm not comfortable programming)",7,5,Cognitive Science,Senior,Female,Yes,White,No,No,Yes,Yes
+313,Java,3,8,Electrical and Computer Engineering,Senior,Male,Yes,White,No,No,Yes,No
+314,"Python, Java",8,7,"Other STEM (sorry, until now not many of our students have come from your degree!)",Junior,Male,Yes,Decline to answer,No,No,No,Yes
+315,"Python, Java, MATLAB, R",8,9,Data Science,Sophomore,Male,No,Asian,No,No,No,Yes
+316,Python,4,4,Cognitive Science,Senior,Male,Yes,Decline to answer,No,No,No,Yes
+317,None of these (I'm not comfortable programming),4,2,Cognitive Science,Sophomore,Female,No,Asian,Yes,No,No,No
+318,"Python, Java",2,6,Mathematics,Sophomore,Male,No,Asian,No,No,No,No
+319,"Python, Java, R",7,8,Cognitive Science,Junior,Male,No,Asian,No,Yes,Yes,No
+320,"Python, Java",6,7,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,No
+321,Python,5,7,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,Yes,Yes
+322,Python,5,3,Data Science,Junior,Female,No,Asian,No,Yes,Yes,No
+323,"Python, None of these (I'm not comfortable programming)",5,5,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,Yes
+324,"Java, MATLAB",2,5,Mathematics,Sophomore,Female,No,Asian,No,No,No,No
+325,"Python, Java, MATLAB",4,6,Mathematics,Junior,Female,No,Asian,No,Yes,Yes,No
+326,"Python, Java",7,5,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+327,Python,4,5,Data Science,Sophomore,Female,Yes,Decline to answer,No,No,No,Yes
+328,Java,3,4,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Decline to answer,No,Asian,Yes,No,No,No
+329,"Python, Java",7,9,Computer Science and Engineering,Senior,,,,,,Yes,
+330,"Python, Java",4,7,Computer Science and Engineering,Senior,Male,No,Asian,No,No,No,No
+331,"Python, Java",3,9,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,No
+332,"Java, MATLAB",8,5,Mathematics,Sophomore,Male,No,Asian,No,No,No,No
+333,"Python, MATLAB",5,5,Cognitive Science,Sophomore,Female,No,Asian,Yes,No,No,No
+334,Python,7,6,Cognitive Science,Junior,Male,No,Black or African American,No,No,No,No
+335,"Python, R",7,5,Biology,Freshman,Female,No,Asian,No,Yes,No,No
+336,None of these (I'm not comfortable programming),10,3,Psychology,Junior,Female,No,Asian,No,No,Yes,No
+337,"Python, Java, MATLAB",8,8,"Other STEM (sorry, until now not many of our students have come from your degree!)",Freshman,Male,No,Asian,No,No,No,No
+338,Python,7,7,,,,,,,,,
+339,"Python, Java, MATLAB, R",10,10,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,No
+340,None of these (I'm comfortable in another language),4,8,Computer Science and Engineering,Junior,Male,No,Asian,No,No,,No
+341,R,4,6,Political Science,Senior,Male,Yes,Decline to answer,No,No,Yes,Yes
+342,"Python, MATLAB",4,7,Computer Science and Engineering,Senior,Female,No,Asian,No,No,Yes,Yes
+343,None of these (I'm not comfortable programming),8,2,Cognitive Science,Junior,Male,Yes,Decline to answer,Yes,No,No,No
+344,"Python, None of these (I'm not comfortable programming)",2,2,Cognitive Science,Sophomore,Female,No,Asian,No,Yes,No,Yes
+345,Java,5,10,Mathematics,Sophomore,Male,No,Asian,No,Yes,No,Yes
+346,"Python, Java",4,8,Mathematics,Sophomore,Male,No,Asian,No,No,No,No
+347,"Python, Java",9,8,Mathematics,Senior,Female,No,Asian,Yes,No,No,No
+348,"Python, Java, MATLAB, R",5,5,"Other engineering (BE, MAE, SE, etc)",Postgraduate,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer
+349,Python,4,5,Cognitive Science,Sophomore,Male,No,Decline to answer,No,No,Yes,No
+350,"Python, Java",6,6,"Other STEM (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,Asian,No,No,Yes,Yes
+351,"Python, Java, MATLAB",6,7,Mathematics,Freshman,Male,No,Asian,Yes,No,No,No
+352,"Python, Java, MATLAB",5,8,Computer Science and Engineering,Junior,Nonbinary,No,Asian,Yes,No,No,No
+353,None of these (I'm not comfortable programming),5,4,Biology,Sophomore,Female,No,Asian,No,No,No,No
+354,"Python, Java",7,7,,,,,,,,,
+355,"Python, Java, MATLAB",4,10,"Other STEM (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,Asian,No,Yes,No,No
+356,Python,8,9,Psychology,Sophomore,Female,No,Asian,No,No,No,No
+357,"Python, Java",8,10,Computer Science and Engineering,Sophomore,Female,No,Asian,No,No,No,No
+358,"Python, Java",6,10,Computer Science and Engineering,Senior,Female,No,White,No,No,Yes,Yes
+359,"Python, Java, MATLAB, R",6,6,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+360,"Python, None of these (I'm not comfortable programming)",8,4,Cognitive Science,Sophomore,Female,No,White,No,No,No,Yes
+361,None of these (I'm not comfortable programming),1,1,,,,,,,,,
+362,"Java, None of these (I'm comfortable in another language)",6,8,Computer Science and Engineering,Junior,Male,No,Asian,Yes,No,No,Yes
+363,"Java, R",8,8,Cognitive Science,Junior,Male,No,White,No,No,Yes,No
+364,"Python, Java",4,8,Mathematics,Junior,Male,Yes,Decline to answer,No,No,Yes,Yes
+365,"Python, Java",5,10,Computer Science and Engineering,Senior,Male,No,Asian,No,No,Yes,No
+366,None of these (I'm not comfortable programming),8,4,Cognitive Science,Junior,Female,No,Asian,No,Yes,No,No
+367,"Python, Java",10,7,Computer Science and Engineering,Junior,Male,No,Asian,No,Yes,No,No
+368,"Python, Java",7,8,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,Yes,No
+369,None of these (I'm not comfortable programming),7,2,Cognitive Science,Senior,Female,No,White,No,No,No,Yes
+370,Python,6,8,Computer Science and Engineering,Junior,Male,No,Asian,No,Yes,Yes,No
+371,Python,7,5,Data Science,Junior,Female,No,Asian,No,No,Yes,No
+372,Python,6,3,Psychology,Senior,Male,No,"Asian, White",No,No,No,No
+373,Python,4,5,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+374,None of these (I'm not comfortable programming),7,3,Cognitive Science,Senior,Female,No,Asian,Yes,No,No,No
+375,Python,5,5,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,Yes
+376,Python,5,6,Cognitive Science,Junior,Female,No,"Asian, White",No,No,No,No
+377,Python,3,3,Cognitive Science,Sophomore,Female,No,Asian,No,Yes,No,No
+378,"Python, Java, MATLAB",8,8,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+379,"Python, Java, MATLAB",8,7,Data Science,Junior,Male,No,Asian,No,No,No,Yes
+380,"Python, Java, MATLAB",6,8,,,,,,,,,
+381,None of these (I'm not comfortable programming),6,3,Cognitive Science,Senior,Female,No,Asian,No,No,No,Yes
+382,"Python, Java",3,6,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Sophomore,Male,No,Asian,No,No,No,No
+383,"Python, R",7,6,Mathematics,Junior,Female,No,Asian,Decline to answer,Yes,Yes,Yes
+384,Python,6,3,Cognitive Science,Sophomore,Female,No,Asian,No,Yes,No,No
+385,"Python, None of these (I'm not comfortable programming)",3,4,Cognitive Science,Junior,Female,No,Asian,Yes,No,No,No
+386,"Python, MATLAB",5,10,Electrical and Computer Engineering,Senior,Male,Yes,American Indian or Alaska Native,No,No,No,Yes
+387,"Python, Java",6,4,Cognitive Science,Freshman,Female,No,Asian,No,No,No,No
+388,"Python, Java, MATLAB",6,5,Cognitive Science,Sophomore,Female,No,Asian,Yes,,No,No
+389,None of these (I'm not comfortable programming),3,3,Cognitive Science,Senior,Male,No,Asian,No,No,Yes,Decline to answer
+390,Python,8,6,Mathematics,Junior,Male,No,Asian,No,Yes,Yes,No
+391,"Python, R",5,5,Economics,Senior,Male,No,Asian,No,Yes,Yes,No
+392,Python,8,6,Cognitive Science,Senior,Female,Yes,White,Yes,No,No,Yes
+393,None of these (I'm not comfortable programming),5,4,Cognitive Science,Junior,Male,No,White,No,No,No,No
+394,None of these (I'm not comfortable programming),3,4,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Female,No,Asian,No,No,No,No
+395,"Python, Java, R",7,7,Cognitive Science,Junior,Female,No,White,Yes,No,Yes,No
+396,"Python, Java, MATLAB",10,7,Computer Science and Engineering,Senior,Male,Yes,White,No,No,No,No
+397,"Python, Java",8,9,Computer Science and Engineering,Sophomore,Male,No,White,No,No,No,No
+398,Python,8,9,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+399,Python,8,6,Cognitive Science,Sophomore,Female,No,Asian,No,Yes,No,No
+400,"Python, Java, MATLAB, R",7,8,Mathematics,Junior,Male,No,Asian,Decline to answer,No,No,No
+401,Python,8,5,Cognitive Science,Junior,Male,No,Asian,No,Yes,Yes,Yes
+402,Python,7,7,Cognitive Science,Junior,Female,No,Asian,No,No,No,Yes
+403,"Python, Java, MATLAB",7,7,Mathematics,Junior,Male,No,Asian,No,Yes,No,No
+404,"Python, Java",6,8,Data Science,Freshman,Male,No,Asian,No,Yes,No,No
+405,"Python, Java",7,8,Data Science,Junior,Male,No,Asian,No,No,No,No
+406,MATLAB,7,6,Physics,Sophomore,Male,No,Asian,No,No,No,Yes
+407,Python,5,7,Cognitive Science,Junior,Male,No,"Asian, White",No,No,No,No
+408,"Java, MATLAB, None of these (I'm not comfortable programming)",6,3,,,,,,,Yes,,
+409,Python,8,10,Computer Science and Engineering,Senior,Male,No,"Asian, White",No,No,Yes,No
+410,Python,5,8,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,No
+411,Python,6,6,,,,,,,,,
+412,"Python, Java",3,7,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,No,Yes
+413,"Python, Java",5,5,Electrical and Computer Engineering,Senior,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer
+414,"Python, Java",6,9,Computer Science and Engineering,Senior,Female,No,Asian,No,No,No,No
+415,None of these (I'm comfortable in another language),4,5,Computer Science and Engineering,Senior,Female,No,Asian,No,Yes,Yes,No
+416,"Python, Java",8,9,Data Science,Senior,Female,No,Asian,No,No,Yes,Yes
+417,"Python, Java",5,7,Cognitive Science,Sophomore,Female,No,Asian,,Yes,,
+418,"Python, Java, MATLAB",8,8,,,,,,,,,
+419,Python,3,5,Cognitive Science,Sophomore,Female,No,Asian,Yes,No,No,No
+420,None of these (I'm comfortable in another language),6,6,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,No
+421,Python,7,9,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+422,None of these (I'm not comfortable programming),6,4,Cognitive Science,Junior,Female,Yes,White,No,No,No,Yes
+423,None of these (I'm not comfortable programming),2,2,,,,,,,,,
+424,Python,8,5,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Sophomore,Female,No,Asian,No,No,No,Yes
+425,"Python, R",8,4,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+426,"Python, Java, MATLAB",8,8,Electrical and Computer Engineering,Senior,Male,No,White,No,Yes,No,No
+427,Python,7,7,Mathematics,Junior,Female,No,Asian,No,No,No,No
+428,Python,6,8,Data Science,Senior,Female,No,Asian,No,Yes,No,No
+429,Python,8,3,Cognitive Science,Sophomore,Male,No,"Asian, White",No,No,No,No
+430,"Python, Java, MATLAB, R",7,8,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+431,None of these (I'm not comfortable programming),5,3,Cognitive Science,Junior,Female,Yes,White,No,No,No,No
+432,None of these (I'm not comfortable programming),4,4,Cognitive Science,Junior,Female,No,Asian,No,Yes,Yes,No
+433,Java,8,7,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,Yes
+434,"Python, Java",8,8,Data Science,Sophomore,Male,No,White,No,No,No,No
+435,"Python, Java, MATLAB",5,8,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,Yes,No
+436,"Python, R",7,9,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+437,"Python, Java",8,7,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,No
+438,Python,4,6,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Sophomore,Male,No,Asian,No,Yes,No,Yes
+439,"Python, Java, MATLAB",10,10,Electrical and Computer Engineering,Junior,Male,No,Asian,,Yes,No,No
+440,Python,5,5,Cognitive Science,Junior,Female,No,Asian,Yes,No,Yes,No
+441,"Java, MATLAB",3,5,Mathematics,Senior,Female,Yes,Decline to answer,No,No,Yes,Yes
+442,"Python, Java",1,10,Electrical and Computer Engineering,Junior,Male,No,Asian,No,No,Yes,No
+443,"Python, Java, R",7,9,Computer Science and Engineering,Sophomore,Female,No,Asian,No,Yes,No,Yes
+444,"Python, Java",7,8,Data Science,Sophomore,Male,No,Asian,No,No,No,Yes
+445,Python,3,2,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,Yes
+446,None of these (I'm not comfortable programming),6,2,Cognitive Science,Senior,Male,No,Asian,No,No,No,No
+447,Python,6,7,"Other STEM (sorry, until now not many of our students have come from your degree!)",Freshman,Male,No,Asian,No,No,No,No
+448,"Python, MATLAB",7,5,Cognitive Science,Sophomore,Female,No,White,Yes,No,No,No
+449,"Python, Java",1,9,Computer Science and Engineering,Junior,Male,Yes,"American Indian or Alaska Native, White",No,No,Yes,Yes
+450,"Python, Java, MATLAB, R",8,8,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+451,"Python, Java",7,10,Mathematics,Junior,Male,No,Asian,No,No,Yes,No
+452,"Python, Java, MATLAB",6,10,Computer Science and Engineering,Junior,Male,Yes,Decline to answer,No,No,No,No
+453,"Python, Java",10,7,Data Science,Freshman,Male,No,Asian,No,No,No,No
+454,None of these (I'm not comfortable programming),7,4,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+455,Python,8,9,Computer Science and Engineering,Junior,Male,No,Asian,No,Yes,Yes,Yes
+456,"Python, Java",4,7,Computer Science and Engineering,Senior,Female,Yes,White,No,No,No,Yes
+457,"Python, MATLAB",4,4,Cognitive Science,Junior,Male,No,Asian,No,No,No,Yes
+458,"Python, Java",7,9,Computer Science and Engineering,Junior,Male,No,Asian,No,No,No,No
+459,Python,7,6,Cognitive Science,Junior,Female,No,"Asian, White",No,No,No,No
+460,Python,7,7,Data Science,Junior,Male,No,Asian,No,No,No,No
+461,"Python, Java, MATLAB",7,7,Cognitive Science,Junior,Female,Yes,White,No,No,No,No
+462,Java,7,6,Computer Science and Engineering,Senior,Male,No,Asian,No,Yes,Yes,Yes
+463,"Python, Java",7,6,Cognitive Science,Junior,Male,Yes,White,No,No,Yes,No
+464,"Python, R",8,8,Political Science,Junior,Male,No,Asian,Decline to answer,No,Yes,Yes
+465,Python,3,4,Cognitive Science,Sophomore,Female,No,Decline to answer,No,Yes,No,No
+466,"Python, Java",7,9,Data Science,Senior,Male,No,Asian,No,No,Yes,No
+467,"Python, Java, MATLAB",5,5,Mathematics,Freshman,Male,No,Decline to answer,No,Yes,No,Decline to answer
+468,Python,6,7,Data Science,Senior,Female,No,Asian,,No,Yes,Yes
+469,Python,3,3,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Sophomore,Female,No,Asian,No,Yes,No,No
+470,None of these (I'm not comfortable programming),6,4,,,,,,,,,
+471,"Python, Java",5,6,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Sophomore,Male,No,Asian,Yes,Yes,No,Yes
+472,"Python, Java, MATLAB, R",5,8,Mathematics,Senior,Male,No,White,No,No,Yes,No
+473,Python,5,4,Psychology,Senior,Male,No,White,No,No,Yes,Yes
+474,None of these (I'm not comfortable programming),6,4,Cognitive Science,Junior,Female,Yes,,No,No,No,Yes
+475,"Python, Java",10,9,Data Science,Junior,Male,No,Asian,No,Yes,No,No
+476,"Python, Java, MATLAB, R",5,5,"Other STEM (sorry, until now not many of our students have come from your degree!)",Freshman,Female,No,Asian,No,No,No,Yes
+477,Python,6,3,Cognitive Science,Junior,Female,No,Asian,No,Yes,Yes,No
+478,None of these (I'm not comfortable programming),2,2,,,,,,,,,
+479,"Python, None of these (I'm not comfortable programming)",4,6,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Female,Yes,Asian,Decline to answer,No,No,Yes
+480,None of these (I'm not comfortable programming),3,3,Mathematics,Junior,Female,No,Asian,No,No,Yes,Yes
+481,None of these (I'm comfortable in another language),4,6,Electrical and Computer Engineering,Junior,Male,No,Asian,No,No,Yes,No
+482,"Python, Java, R",6,7,,,,,,,,,
+483,"Python, Java, R",10,10,Data Science,Senior,Male,No,White,No,No,Yes,No
+484,"Python, Java, R",6,5,Economics,Senior,Male,Yes,White,No,No,No,Yes
+485,"Python, Java",4,10,Computer Science and Engineering,Senior,Male,No,Asian,No,No,Yes,Yes
+486,"Python, None of these (I'm not comfortable programming)",5,5,Cognitive Science,Junior,Male,No,"American Indian or Alaska Native, Asian, Black or African American, White",Decline to answer,No,No,No
+487,Python,5,6,Data Science,Junior,Female,No,Asian,,No,Yes,Yes
+488,Python,7,8,Computer Science and Engineering,Junior,Male,No,Asian,Yes,No,Yes,Yes
+489,Python,3,3,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+490,"Python, Java, MATLAB, R",5,3,Cognitive Science,Junior,Female,No,Asian,No,Yes,No,No
+491,"Python, Java, MATLAB",3,6,Data Science,Junior,Male,No,"Asian, White",No,No,No,No
+492,"Python, Java, MATLAB",8,9,Computer Science and Engineering,Senior,Male,No,White,No,No,No,No
+493,Java,6,7,,,,,,,,,
+494,Python,5,6,Data Science,Junior,Male,No,Asian,No,Yes,Yes,No
+495,None of these (I'm not comfortable programming),3,3,"Other STEM (sorry, until now not many of our students have come from your degree!)",Senior,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer
+496,Python,5,5,Biology,Senior,Male,No,Asian,No,No,No,No
+497,Python,5,3,Cognitive Science,Junior,Female,No,Asian,No,No,No,Yes
+498,None of these (I'm comfortable in another language),8,5,Mathematics,Junior,Female,No,Asian,Decline to answer,No,Yes,Yes
+499,"Java, MATLAB",6,6,"Other STEM (sorry, until now not many of our students have come from your degree!)",Sophomore,Male,No,Asian,No,Yes,No,No
+500,Python,3,3,Data Science,Junior,Male,No,Asian,No,No,Yes,Yes
+501,Java,2,4,Biology,Freshman,Male,No,Asian,No,No,No,Yes
+502,"Python, R",5,6,Cognitive Science,Senior,Female,Yes,American Indian or Alaska Native,No,No,No,Yes
+503,"Python, None of these (I'm not comfortable programming)",2,3,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Female,No,"Asian, White",No,No,No,No
+504,Python,5,6,Mathematics,Junior,Male,No,Asian,No,No,No,No
+505,"Java, None of these (I'm comfortable in another language)",3,6,Mathematics,Senior,Male,Yes,Decline to answer,Yes,No,No,No
+506,"Python, R",4,5,"Other STEM (sorry, until now not many of our students have come from your degree!)",Sophomore,Male,No,Asian,No,Yes,No,Yes
+507,Java,5,5,"Other engineering (BE, MAE, SE, etc)",Freshman,Female,No,Asian,Yes,Yes,No,No
+508,"Python, Java, MATLAB, R",9,10,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,Yes
+509,"Python, R",6,7,Biology,Freshman,Female,No,Asian,Yes,Yes,No,Yes
+510,Python,7,9,Data Science,Junior,Male,No,"Asian, Native Hawaiian or Other Pacific Islander, White",No,No,No,Yes
+511,Python,8,8,Mathematics,Senior,Male,No,Asian,No,Yes,No,No
+512,"Python, Java",6,7,Computer Science and Engineering,Junior,Female,No,Asian,No,Decline to answer,Yes,No
+513,Python,8,5,Psychology,Sophomore,Female,Yes,Decline to answer,Yes,No,No,Yes
+514,Python,4,4,Psychology,Junior,Male,No,Asian,No,Yes,No,No
+515,"Python, Java",9,8,Data Science,Senior,Decline to answer,No,White,Yes,No,Yes,No
+516,"Python, Java, R",7,8,Data Science,Sophomore,Female,No,Asian,No,No,No,No
+517,Python,6,6,Cognitive Science,Senior,Female,No,White,No,No,Yes,Yes
+518,"Python, MATLAB",8,6,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+519,Python,7,6,Cognitive Science,Senior,Male,No,Decline to answer,Decline to answer,No,Yes,Yes
+520,Python,7,3,"Other STEM (sorry, until now not many of our students have come from your degree!)",Sophomore,Female,Yes,Decline to answer,No,No,No,Yes
+521,Python,3,1,Cognitive Science,Junior,Female,No,Asian,No,No,No,No
+522,Java,6,5,Cognitive Science,Junior,Male,No,Asian,No,Yes,Yes,Yes
+523,"Python, Java",6,7,Electrical and Computer Engineering,Sophomore,Female,No,Asian,No,Yes,No,No
+524,"Python, MATLAB",8,4,Cognitive Science,Junior,Female,No,White,Yes,No,No,No
+525,Python,4,4,Cognitive Science,Senior,Male,Yes,White,No,No,No,Yes
+526,Python,9,4,"Other STEM (sorry, until now not many of our students have come from your degree!)",Senior,Male,Yes,White,Yes,No,No,Yes
+527,"Python, MATLAB",8,7,Cognitive Science,Freshman,Male,No,Asian,No,Yes,No,No
+528,Python,2,1,Cognitive Science,Senior,Female,Yes,Decline to answer,No,No,No,Yes
+529,"Python, Java",5,8,Computer Science and Engineering,Sophomore,Female,No,Asian,No,Yes,No,No
+530,Python,7,7,Data Science,Senior,Female,No,,,,Yes,
+531,"Python, MATLAB",7,4,Cognitive Science,Sophomore,Female,No,Asian,No,Yes,No,No
+532,"Python, Java, R",8,7,Data Science,Junior,Male,No,White,No,No,Yes,No
+533,"Python, MATLAB, R",7,8,Mathematics,Junior,Male,No,Asian,No,Yes,No,No
+534,"Python, Java",6,7,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+535,"Python, R",8,6,Cognitive Science,Junior,Female,No,White,No,No,Yes,No
+536,"Python, Java, R",7,7,Data Science,Senior,Male,No,Asian,No,No,No,No
+537,"Python, Java, MATLAB",5,7,Mathematics,Senior,,No,Asian,No,No,No,Yes
+538,None of these (I'm not comfortable programming),4,4,Cognitive Science,Sophomore,Female,Yes,,No,No,No,
+539,"Python, MATLAB",7,6,Data Science,Senior,Male,No,"Asian, White",No,No,No,No
+540,"Python, Java, MATLAB",7,6,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+541,"Python, Java",7,9,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+542,Java,6,8,Electrical and Computer Engineering,Senior,Male,Yes,Decline to answer,No,No,No,Yes
+543,Python,3,1,Cognitive Science,Junior,Female,No,Asian,Decline to answer,No,No,Yes
+544,Python,5,2,Cognitive Science,Senior,Female,No,Asian,No,No,No,Yes
+545,MATLAB,7,4,Electrical and Computer Engineering,Senior,Male,No,White,No,No,No,No
+546,Python,5,3,Cognitive Science,Senior,Female,Yes,Decline to answer,No,No,No,Yes
+547,Python,7,8,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+548,Python,6,3,Data Science,Junior,Female,No,Asian,No,Yes,Yes,Decline to answer
+549,Python,4,4,Cognitive Science,Sophomore,Male,No,Asian,No,Yes,No,Yes
+550,Python,6,5,Cognitive Science,Sophomore,Female,No,Asian,No,No,No,No
+551,"Python, Java, MATLAB",7,5,Cognitive Science,Sophomore,Female,No,Asian,No,Yes,No,No
+552,None of these (I'm not comfortable programming),1,1,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Male,,,,,,
+553,Python,6,6,Cognitive Science,Sophomore,Male,No,,,,,
+554,"Python, Java",8,10,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+555,Python,8,8,Computer Science and Engineering,Junior,Male,No,Asian,No,Yes,Yes,No
+556,"Python, Java, MATLAB",10,8,Mathematics,Junior,Female,No,Asian,No,Yes,No,Yes
+557,"Python, Java, MATLAB, R",5,7,Computer Science and Engineering,Junior,Male,No,White,No,Yes,No,Yes
+558,Python,5,5,Data Science,Junior,Female,No,Asian,No,No,Yes,No
+559,None of these (I'm not comfortable programming),5,2,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,White,No,No,Yes,No
+560,"Python, MATLAB",7,6,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+561,"Python, Java",7,6,,,,,,,,,
+562,"Python, MATLAB",7,7,Data Science,Junior,Female,No,Asian,No,No,No,Yes
+563,"Java, MATLAB, R",9,5,Economics,Senior,Male,No,White,No,No,Yes,No
+564,Python,4,5,Mathematics,Senior,Male,No,Asian,No,Yes,No,No
+565,"Python, Java, MATLAB",7,10,Computer Science and Engineering,Sophomore,Female,No,Asian,No,No,No,No
+566,None of these (I'm not comfortable programming),6,7,Electrical and Computer Engineering,Junior,Male,No,Asian,No,Yes,No,Yes
+567,"Python, Java",7,6,Psychology,Senior,Male,No,Asian,No,No,Yes,No
+568,Python,7,8,"Other engineering (BE, MAE, SE, etc)",Senior,Female,No,Asian,No,Yes,No,No
+569,"Python, Java",8,8,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+570,"Python, Java, R",8,7,Data Science,Junior,Male,No,White,No,No,Yes,No
+571,"Python, MATLAB",6,9,Electrical and Computer Engineering,Senior,Male,No,White,No,No,Yes,Yes
+572,MATLAB,5,2,Cognitive Science,Senior,Female,No,Asian,No,No,No,No
+573,"Python, Java, MATLAB, R",7,8,Data Science,Senior,Female,Decline to answer,Asian,No,No,Yes,No
+574,Python,8,5,Cognitive Science,Sophomore,Male,Yes,White,No,No,No,No
+575,None of these (I'm not comfortable programming),4,3,Cognitive Science,Junior,Male,No,"Asian, White",No,No,Yes,No
+576,"Python, MATLAB",7,5,Cognitive Science,Junior,Female,No,Asian,No,Yes,No,No
+577,"Python, Java",7,4,Cognitive Science,Junior,Female,No,Asian,No,Yes,No,No
+578,Python,4,2,Cognitive Science,Freshman,Female,No,Asian,No,No,No,Yes
+579,"Python, MATLAB",7,7,Electrical and Computer Engineering,Senior,Male,No,Asian,Yes,No,Yes,Yes
+580,"Python, Java",4,10,,,,,,,,,
+581,None of these (I'm not comfortable programming),5,3,Cognitive Science,Senior,Female,No,White,No,No,Yes,No
+582,"Python, Java, MATLAB",7,8,Mathematics,Junior,Male,Yes,White,No,No,No,Yes
+583,"Python, Java",6,6,Computer Science and Engineering,Junior,Female,No,White,No,No,No,Yes
+584,Python,4,4,Data Science,Junior,Male,No,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer
+585,"Python, Java, R",7,7,Economics,Senior,Male,No,Asian,Yes,No,No,No
+586,"Python, None of these (I'm not comfortable programming)",7,5,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,No
+587,"Python, R",7,7,Data Science,Senior,Female,No,Asian,No,Yes,Yes,Yes
+588,None of these (I'm not comfortable programming),7,5,Mathematics,Junior,Female,No,Asian,No,Yes,No,No
+589,Java,9,9,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,Yes
+590,Python,7,9,,,,,,,,,
+591,"Python, Java",6,9,Computer Science and Engineering,Junior,Male,No,Asian,No,No,No,No
+592,None of these (I'm comfortable in another language),4,5,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,No
+593,Python,5,4,Biology,Senior,Male,Yes,White,Yes,No,No,Yes
+594,"Python, Java",6,7,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+595,"Python, MATLAB",4,6,Cognitive Science,Junior,Female,No,White,Yes,No,No,Yes
+596,None of these (I'm comfortable in another language),6,9,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,No
+597,Java,6,9,Cognitive Science,Junior,Male,Yes,Asian,No,No,Yes,No
+598,Python,4,4,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Female,No,Asian,No,Yes,Yes,No
+599,Python,6,4,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,No
+600,"Python, Java",7,5,,,,,,,,,
+601,None of these (I'm not comfortable programming),5,3,Chemistry,Senior,Male,Yes,Decline to answer,No,No,No,Yes
+602,None of these (I'm not comfortable programming),6,4,Cognitive Science,Junior,Male,Yes,White,No,No,No,Yes
+603,"Java, MATLAB, None of these (I'm comfortable in another language)",5,7,Mathematics,Senior,Male,No,Asian,No,No,No,No
+604,"Python, Java, MATLAB",7,8,Computer Science and Engineering,Junior,Female,No,Asian,No,No,Yes,No
+605,"Python, MATLAB",8,6,Cognitive Science,Junior,Female,No,Asian,No,Yes,Yes,No
+606,"Python, Java",5,7,Mathematics,Freshman,Male,Yes,,No,No,No,No
+607,Python,6,7,Mathematics,Junior,Male,No,White,No,No,Yes,No
+608,"Python, Java, MATLAB, R",10,10,Mathematics,Sophomore,Male,No,Asian,Decline to answer,Decline to answer,Decline to answer,Decline to answer
+609,"Python, Java, MATLAB, R",7,7,Data Science,Senior,Male,No,Asian,No,No,No,Yes
+610,R,8,5,Economics,Senior,Female,No,Asian,No,No,No,No
+611,"Python, None of these (I'm not comfortable programming)",5,3,Cognitive Science,Sophomore,Female,No,Asian,No,,No,Yes
+612,"Python, MATLAB",7,8,Electrical and Computer Engineering,Senior,Male,No,Asian,No,No,Yes,Yes
+613,"Python, Java, MATLAB",7,10,Computer Science and Engineering,Sophomore,Male,No,Asian,No,No,No,Yes
+614,"Python, Java",7,10,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+615,Python,7,9,Computer Science and Engineering,Senior,Male,No,Asian,No,No,Yes,Yes
+616,"Java, MATLAB",10,9,Physics,Sophomore,Male,No,Asian,No,Yes,No,No
+617,"Python, Java",6,7,Computer Science and Engineering,Junior,Male,Yes,White,No,No,Yes,No
+618,None of these (I'm not comfortable programming),8,6,Cognitive Science,Junior,Male,Yes,White,No,No,Yes,No
+619,None of these (I'm not comfortable programming),7,4,Cognitive Science,Junior,Female,No,Asian,No,No,Yes,No
+620,"Python, Java",1,7,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+621,"Java, MATLAB",6,7,Cognitive Science,Junior,Male,No,Asian,No,No,No,Yes
+622,"Python, R",5,5,Data Science,Junior,Male,No,Asian,No,Yes,Yes,Yes
+623,None of these (I'm not comfortable programming),7,6,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+624,"Python, Java",8,10,Data Science,Senior,Female,No,Asian,No,No,Yes,No
+625,"Python, R",7,6,Economics,Senior,Female,No,Asian,No,Yes,No,Yes
+626,"Python, Java, R",7,9,,,,,,,,,
+627,"Python, Java, MATLAB",6,7,Cognitive Science,Sophomore,Female,No,Asian,Decline to answer,No,No,No
+628,Python,5,3,Data Science,Junior,Male,No,Asian,No,No,Yes,Yes
+629,"Python, MATLAB, R",8,6,Cognitive Science,Junior,Male,No,Asian,No,No,No,No
+630,None of these (I'm not comfortable programming),7,4,Cognitive Science,Junior,Female,Yes,White,No,No,No,Yes
+631,"Python, MATLAB",8,6,Physics,Sophomore,Male,Yes,White,No,Yes,No,No
+632,Java,9,5,Computer Science and Engineering,Senior,Female,No,"Asian, White",Yes,,Yes,
+633,"Python, Java, MATLAB",6,7,Mathematics,Junior,Female,No,Asian,No,Yes,Yes,No
+634,None of these (I'm not comfortable programming),7,7,Computer Science and Engineering,Senior,Female,No,Asian,No,No,Yes,Yes
+635,Java,4,6,Cognitive Science,Junior,Male,No,Asian,No,No,No,No
+636,"Python, Java, MATLAB",9,9,Data Science,Sophomore,Male,No,Asian,No,No,No,No
+637,Python,7,7,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,No
+638,"Python, MATLAB",2,1,Cognitive Science,Senior,Male,No,Asian,No,No,No,Yes
+639,Java,3,10,Mathematics,Junior,Male,No,Asian,No,No,No,Yes
+640,"Python, Java",7,8,,,,,,,,,
+641,Python,7,7,Cognitive Science,Sophomore,Female,Yes,,Yes,No,No,Yes
+642,None of these (I'm not comfortable programming),5,4,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Senior,Female,No,Asian,No,No,Yes,Yes
+643,"Python, Java",5,8,Cognitive Science,Senior,Male,No,Asian,No,Yes,Yes,No
+644,"Java, MATLAB",5,6,Computer Science and Engineering,Senior,Female,No,Asian,Yes,No,No,Yes
+645,Python,8,7,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",Junior,Male,No,White,Yes,No,No,No
+646,Python,6,4,Cognitive Science,Sophomore,Female,Yes,White,Yes,No,No,Yes
+647,"Python, R",8,3,Sociology,Senior,Male,Yes,Asian,No,No,Yes,Yes
+648,None of these (I'm not comfortable programming),7,4,Cognitive Science,Sophomore,Female,No,Decline to answer,Decline to answer,No,No,No
+649,"Python, Java",8,9,Computer Science and Engineering,Senior,Female,No,Asian,No,No,Yes,No
+650,"Python, Java",4,4,Data Science,Sophomore,Male,No,Decline to answer,No,No,No,No
+651,Python,3,2,Cognitive Science,Sophomore,Male,No,Asian,No,No,No,
+652,MATLAB,5,5,Computer Science and Engineering,Senior,Female,Yes,White,No,No,No,Yes
+653,"Python, Java",5,2,Cognitive Science,Senior,Male,No,Asian,No,No,Yes,No
+654,R,8,5,Biology,Senior,Male,No,"Black or African American, White",No,No,Yes,No
+655,"Python, Java",4,10,Computer Science and Engineering,Senior,Male,No,Asian,No,No,No,No
+656,"Java, None of these (I'm comfortable in another language)",5,6,Computer Science and Engineering,Junior,Male,No,Asian,No,Yes,Yes,No
+657,"MATLAB, None of these (I'm comfortable in another language)",5,7,Mathematics,Junior,Male,Yes,Decline to answer,No,No,No,Yes
+658,Python,6,5,Data Science,Sophomore,Male,No,Black or African American,No,No,No,No
+659,Python,8,3,Data Science,Junior,Male,No,Asian,No,No,Yes,No
+660,Python,6,6,Mathematics,Junior,Female,No,White,No,No,Yes,Yes
+661,MATLAB,5,5,Cognitive Science,Junior,Male,No,Asian,No,No,Yes,No
+662,"Python, R, None of these (I'm comfortable in another language)",5,7,Mathematics,Junior,Female,No,Asian,No,,Yes,No
+663,"Python, Java",8,10,Computer Science and Engineering,Senior,Male,Yes,White,No,Yes,No,No
+664,"Python, Java, R",9,8,Biology,Sophomore,Male,No,White,No,No,No,No
+665,Python,3,5,Cognitive Science,Senior,Male,Yes,White,Yes,No,Yes,Yes
+666,Python,4,4,Cognitive Science,Sophomore,Female,Yes,Decline to answer,No,No,No,Yes
+667,"Python, Java",8,7,Data Science,Sophomore,Male,No,Asian,No,No,No,Decline to answer
+668,"Python, Java",3,7,Computer Science and Engineering,Sophomore,Male,Yes,Decline to answer,No,No,No,Yes
+669,"Python, MATLAB",6,5,"Other engineering (BE, MAE, SE, etc)",Sophomore,Decline to answer,Decline to answer,Decline to answer,Decline to answer,No,No,Decline to answer
+670,Python,6,4,Cognitive Science,Senior,Female,Yes,,No,No,No,Yes
+671,MATLAB,4,5,Biology,Senior,Female,No,Asian,No,No,No,Yes
+672,None of these (I'm not comfortable programming),5,5,Cognitive Science,Sophomore,Male,Yes,,No,No,No,Yes
+673,Python,4,5,"Other STEM (sorry, until now not many of our students have come from your degree!)",Senior,Male,No,Asian,No,No,Yes,Yes
+674,None of these (I'm not comfortable programming),4,4,Cognitive Science,Junior,Female,Yes,Decline to answer,Yes,No,No,Yes
+675,Python,6,5,Cognitive Science,Junior,Female,Yes,Decline to answer,No,No,No,Yes
+676,Python,5,3,Psychology,Junior,Female,Yes,Decline to answer,Yes,No,No,Yes
+677,MATLAB,5,6,Electrical and Computer Engineering,Junior,Male,Yes,White,No,No,No,Yes
+678,"Python, R",5,5,Cognitive Science,Sophomore,Female,Yes,,No,No,No,Yes
+679,None of these (I'm not comfortable programming),8,2,Cognitive Science,Junior,Female,No,Asian,No,No,No,Yes
+680,"Python, MATLAB, None of these (I'm comfortable in another language)",5,5,Electrical and Computer Engineering,Junior,Female,No,Asian,No,Yes,No,No
+681,Python,7,7,Cognitive Science,Junior,Male,No,Black or African American,No,No,Yes,Yes
+682,"Python, MATLAB, R",4,4,Economics,Junior,Female,Yes,White,Yes,No,No,Yes
+683,Python,3,2,Cognitive Science,Sophomore,Female,No,Asian,,No,Yes,No
+684,"Python, Java, MATLAB",8,10,Computer Science and Engineering,Sophomore,Female,No,Asian,Decline to answer,No,No,No
+685,"Python, MATLAB, R",7,6,Mathematics,Junior,Male,No,White,No,No,No,No
+686,"Python, Java, MATLAB, R",9,9,,,,,,,,,
+687,"Python, Java",10,9,Data Science,Sophomore,Female,No,Asian,No,No,No,No
+688,"Python, R",8,8,Cognitive Science,Senior,Male,No,White,No,No,Yes,No
+689,"Python, Java",7,9,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+690,"Python, Java",4,8,Cognitive Science,Junior,Male,No,White,Yes,Yes,Yes,No
+691,"Python, R",8,6,Cognitive Science,Junior,Female,No,Asian,No,Decline to answer,Yes,Yes
+692,"Python, Java",8,9,Data Science,Junior,Male,No,Asian,No,No,No,No
+693,"Python, Java",4,7,Computer Science and Engineering,Junior,Male,Yes,,,,,Yes
+694,"Python, Java",8,8,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,No
+695,None of these (I'm not comfortable programming),7,5,Physics,Sophomore,Male,No,Asian,No,Yes,No,No
+696,"Python, MATLAB",9,7,"Other engineering (BE, MAE, SE, etc)",Postgraduate,Male,No,Asian,No,Yes,No,Yes
+697,Python,7,6,Cognitive Science,Sophomore,Male,No,White,No,No,No,No
+698,None of these (I'm not comfortable programming),5,3,,,,,,,,,
+699,"Python, Java, R",4,7,Political Science,Senior,Female,No,Asian,No,No,No,No
+700,"Python, Java",7,8,Computer Science and Engineering,Junior,Male,Yes,Black or African American,No,No,Yes,No
+701,MATLAB,5,5,"Other STEM (sorry, until now not many of our students have come from your degree!)",Senior,Female,No,White,No,No,No,No
+702,"Python, MATLAB",4,5,Electrical and Computer Engineering,Senior,Female,No,Asian,No,Yes,No,No
+703,"Python, Java, MATLAB",5,7,,,,,,,,,
+704,"Python, Java",7,5,Cognitive Science,Junior,Female,No,Black or African American,No,No,Yes,Decline to answer
+705,None of these (I'm comfortable in another language),5,5,Electrical and Computer Engineering,Junior,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Decline to answer,Yes,Decline to answer
+706,"Python, Java, MATLAB",1,9,Computer Science and Engineering,Junior,Male,No,Asian,No,No,Yes,Yes
+707,None of these (I'm not comfortable programming),7,5,Economics,Senior,Male,No,Asian,No,Yes,Yes,Yes
+708,"Python, Java, MATLAB",3,8,Cognitive Science,Junior,Male,No,Black or African American,Decline to answer,No,No,No
+709,"Python, Java",5,10,Cognitive Science,Sophomore,Male,,,,,,
